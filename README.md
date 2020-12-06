@@ -11,4 +11,4 @@ PA 3 uses multithreading to simulate a delivery system from multiple restaurants
 
 PA 4 accomplishes a similar goal to PA3 using a client-server model and pulling data from Yelp's API.
 
-The final project, named Posty, enabled users to create accounts, grocery lists, and grocery groups. By allowing users to discover one anothers' groups, Posty essentially enables coordination of grocery lists, which is a service that current popular applications - such as Instacart - lack.
+The final project, named Posty, enabled users to create accounts, grocery lists, and grocery groups. By allowing users to discover one anothers' groups, Posty essentially enables coordination of grocery lists, which is a service that current popular applications - such as Instacart - lack. Note that the final project files are split into two zip files and that the frontend zip file does not include node modules for the sake of file size.
